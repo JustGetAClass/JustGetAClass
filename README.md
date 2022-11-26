@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salat Gelle</h1>
 <h3 align="center">A passionate Python developer from Kenya</h3>
-# 💫 About Me:
+<h1 align="center"># 💫 About Me:</h1><br>
 👯 I’m looking to collaborate on any python project<br>🌱 I’m currently learning Python (100 days of coding with Angela Yu) and then Javascript(Colt Steele)<br>👨‍💻 All of my projects are available at https://github.com/JustGetAClass<br>💬 Ask me about Python<br>📫 How to reach me Mohamedsalat62@gmail.com<br>⚡ Fun fact Ask me for a movie/tv/anime recommendation
 
 
@@ -17,14 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/jojowick) 
 
----
-[![](https://visitcount.itsvg.in/api?id=JustGetAClass&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/jojowick) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
