@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salat Gelle</h1>
 <h3 align="center">A passionate Python developer from Kenya</h3>
 <h1 align="center"># 💫 About Me:</h1><br>
-👯 I’m looking to collaborate on **any python project** <br>🌱 I’m currently learning Python (100 days of coding with Angela Yu) and then Javascript(Colt Steele)<br>👨‍💻 All of my projects are available at https://github.com/JustGetAClass<br>💬 Ask me about Python<br>📫 How to reach me Mohamedsalat62@gmail.com<br>⚡ Fun fact Ask me for a movie/tv/anime recommendation
+
+- 🌱 I’m currently learning **Python (100 days of coding with Angela Yu) and then Javascript**
+
+- 👯 I’m looking to collaborate on **any python project**
+
+- 👨‍💻 All of my projects are available at [https://github.com/JustGetAClass](https://github.com/JustGetAClass)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **Mohamedsalat62@gmail.com**
+
+- ⚡ Fun fact **Ask me for a movie/tv/anime recommendation**
 
 
 # 💻 Tech Stack:
