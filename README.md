@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Python developer from Kenya</h3>
 <h1 align="center"># 💫 About Me:</h1><br>
 
-- 🌱 I’m currently learning **Python (100 days of coding with Angela Yu) and then Javascript**
+- 🌱 I’m currently learning **Python (100 days of coding with Angela Yu) and Javascript**
 
 - 👯 I’m looking to collaborate on **any python project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JustGetAClass](https://github.com/JustGetAClass)
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **Mohamedsalat62@gmail.com**
 
@@ -20,9 +18,6 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustGetAClass&theme=dark&hide_border=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JustGetAClass&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
