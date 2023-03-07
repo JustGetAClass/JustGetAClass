@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salat Gelle</h1>
-<h3 align="center">A passionate Python developer & Javascript from Kenya</h3>
+<h3 align="center">A passionate Python & Javascript developer from Kenya</h3>
 <h1 align="center"># 💫 About Me:</h1><br>
 
 - 🌱 I’m currently learning **Python (100 days of coding with Angela Yu) and Javascript**
