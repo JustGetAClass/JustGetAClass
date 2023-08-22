@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salat Gelle</h1>
-<h3 align="center">A passionate Full Stack React.js developer</h3>
+<h3 align="center">Software Engineer | Full Stack web developer | Data Analyst</h3>
 <h1 align="center"># 💫 About Me:</h1><br>
-
-- 👯 I’m looking to collaborate on **any React project**
 
 - 📫 How to reach me **Mohamedsalat62@gmail.com**
 
